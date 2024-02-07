@@ -1,0 +1,2 @@
+../Core/Src/MotorState.cpp:12:1:MotorState::~MotorState()	16	static
+../Core/Src/MotorState.cpp:12:1:virtual MotorState::~MotorState()	16	static

@@ -1,0 +1,2 @@
+../Core/Src/MotorState.cpp:12:1:MotorState::~MotorState()	1
+../Core/Src/MotorState.cpp:12:1:virtual MotorState::~MotorState()	1

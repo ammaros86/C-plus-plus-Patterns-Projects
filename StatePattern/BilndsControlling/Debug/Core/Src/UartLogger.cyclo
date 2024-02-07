@@ -1,0 +1,4 @@
+../Core/Src/UartLogger.cpp:10:1:UartLogger::UartLogger()	1
+../Core/Src/UartLogger.cpp:14:1:UartLogger::~UartLogger()	1
+../Core/Src/UartLogger.cpp:14:1:virtual UartLogger::~UartLogger()	1
+../Core/Src/UartLogger.cpp:17:6:void UartLogger::printUart(const char*)	1
